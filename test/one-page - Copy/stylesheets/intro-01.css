@@ -1,0 +1,29 @@
+.home-parallax {
+	width: 100%;
+}
+
+.home-parallax .intro-06-content-wrap {
+	height: 100%;
+}
+
+.intro-06-text {
+	width: 60%;
+	margin-left: 20%;
+}
+
+.intro-06-text span {
+	font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    line-height: 57px;
+    padding-left: 4px;
+    border-bottom: 4px solid #fff;
+    text-transform: uppercase;
+}
+
+.intro-06-text p.name {
+	margin-top: 15px;
+	font-size: 14px;
+	line-height: 21px;
+	font-weight: 700;
+}

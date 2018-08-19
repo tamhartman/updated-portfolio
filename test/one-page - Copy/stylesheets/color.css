@@ -1,0 +1,293 @@
+.main {
+  color: #44b749;
+}
+.white {
+  color: #ffffff;
+}
+.light-white {
+  color: #f1f1f1;
+}
+.dark-white {
+  color: #ececec;
+}
+.darker-white {
+  color: #a0a0a0;
+}
+.black {
+  color: #000000;
+}
+.gray {
+  color: #8a8a8a;
+}
+.main-bg {
+  background: #44b749;
+}
+.main-rgba-half-bg {
+  background: rgba(68, 183, 73, 0.5);
+}
+.main-rgba-high-bg {
+  background: rgba(68, 183, 73, 0.8);
+}
+.white-bg {
+  background: #ffffff;
+}
+.white-rgba-high-bg {
+  background: rgba(255, 255, 255, 0.9);
+}
+.white-rgba-very-low-bg {
+  background: rgba(255, 255, 255, 0.2);
+}
+.light-white-bg {
+  background: #f1f1f1;
+}
+.dark-white-bg {
+  background: #ececec;
+}
+.dark-white-rgba-high-bg {
+  background: rgba(236, 236, 236, 0.8);
+}
+.darker-white-bg {
+  background: #a0a0a0;
+}
+.black-bg {
+  background: #000000;
+}
+.black-rgba-half-bg {
+  background: rgba(0, 0, 0, 0.5);
+}
+.gray-bg {
+  background: #8a8a8a;
+}
+.map-gray-rgba-bg {
+  background: rgba(236, 236, 236, 0.8);
+}
+.index-02-bg {
+  background: #f3f3f3;
+}
+.one-page-bg {
+  background: #f1f1f1;
+}
+.btn-micah-white-transparent {
+  border-color: #ffffff;
+}
+.btn-micah-white-transparent:hover {
+  border-color: #44b749;
+  background: #44b749;
+  color: #ffffff;
+}
+.btn-micah-gray-transparent {
+  border-color: #8a8a8a;
+}
+.btn-micah-gray-transparent:hover {
+  border-color: #44b749;
+  background: #44b749;
+  color: #ffffff;
+}
+.horizontal-nav .nav-section ul li a {
+  color: #000000;
+}
+.horizontal-nav .nav-section ul li a.active,
+.horizontal-nav .nav-section ul li a:hover {
+  color: #44b749;
+}
+.intro-01 #projects nav span.active {
+  background: #44b749;
+  border-color: #44b749;
+}
+#multiscroll-nav li .active span {
+  background: #44b749;
+  border-color: #44b749;
+}
+#cssmenu > ul > li > a:hover {
+  color: #44b749;
+}
+#cssmenu > ul > li > a:active {
+  color: #44b749;
+}
+#cssmenu > ul > li.has-sub.open > a {
+  color: #44b749 !important;
+}
+#cssmenu > ul > li.has-sub.open a .holder::before,
+#cssmenu > ul > li.has-sub.open a .holder::after {
+  border-top-color: #44b749 !important;
+  border-left-color: #44b749 !important;
+}
+#cssmenu > ul > li > a .holder::before,
+#cssmenu > ul > li > a .holder::after {
+  border-top-color: #a0a0a0;
+  border-left-color: #a0a0a0;
+}
+#cssmenu > ul > li > a:hover .holder::before,
+#cssmenu > ul > li > a:hover .holder::after {
+  border-top-color: #44b749;
+  border-left-color: #44b749;
+}
+#cssmenu > ul > li.has-sub ul li a:hover {
+  color: #44b749;
+}
+#cssmenu > ul > li:after {
+  background: #a0a0a0;
+}
+#fp-nav ul li a.active span {
+  background: #44b749;
+}
+#intro-05-container .hover-container::before {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+#intro-05-container .hover-container::after {
+  border-right-color: #ffffff;
+  border-left-color: #ffffff;
+}
+.intro-05 .tweet_time a {
+  color: #ffffff !important;
+}
+.intro-05 .tweet_text a {
+  color: #ffffff !important;
+}
+.team-synced-owl .owl-nav div i {
+  color: #44b749;
+}
+.team-synced-owl .owl-nav div:hover i {
+  color: #000000;
+}
+figure.effect-bubba figcaption::before {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+figure.effect-bubba figcaption::after {
+  border-right-color: #ffffff;
+  border-left-color: #ffffff;
+}
+figure.effect-bubba .plus::before {
+  border-top-color: #ffffff;
+}
+figure.effect-bubba .plus::after {
+  border-left-color: #ffffff;
+}
+.about-text-head p span:after {
+  background: #44b749;
+}
+.section-slider .hidden-wrap .button-section::before {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+.section-slider .hidden-wrap .button-section::after {
+  border-right-color: #ffffff;
+  border-left-color: #ffffff;
+}
+.statistic-wrap .statistic-block {
+  border-bottom-color: #44b749;
+  border-right-color: #44b749;
+}
+.service-content-wrap .service-content-each .service-content-img {
+  border-color: #000000;
+}
+#team-wrap .team-hover-content::before {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+#team-wrap .team-hover-content::after {
+  border-left-color: #ffffff;
+  border-right-color: #ffffff;
+}
+#metro-panel .arrow-down:after,
+#metro-panel .arrow-up:after {
+  background: #f1f1f1;
+}
+.filterable-portfolio #filters li a.selected {
+  color: #44b749;
+}
+.filterable-portfolio #filters li a:hover {
+  color: #44b749;
+}
+#container .element:hover .portfolio-hover-content {
+  background: rgba(68, 183, 73, 0.5);
+}
+.portfolio-one-page .portfolio-hover-content::before {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+.portfolio-one-page .portfolio-hover-content::after {
+  border-left-color: #ffffff;
+  border-right-color: #ffffff;
+}
+.contact-slider .hidden-wrap .button-section::before {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+.featherlight .featherlight-close-icon {
+  background: #ffffff;
+}
+.contact-form-wrap input {
+  color: #44b749;
+}
+.contact-form-wrap textarea {
+  color: #44b749;
+}
+.submitter:hover {
+  color: #ffffff;
+}
+.error-msg::-webkit-input-placeholder {
+  color: #000000 !important;
+}
+.error-msg:-moz-placeholder {
+  color: #000000 !important;
+}
+.error-msg::-moz-placeholder {
+  color: #000000 !important;
+}
+.error-msg:-ms-input-placeholder {
+  color: #000000 !important;
+}
+button#submit {
+  border-color: #44b749;
+}
+button#submit:hover {
+  background: #44b749;
+  border-color: #44b749;
+}
+.contact-button-each::before {
+  border-top-color: #44b749;
+  border-bottom-color: #44b749;
+}
+.contact-button-each::after {
+  border-right-color: #44b749;
+  border-left-color: #44b749;
+}
+.news-one-page .news-grid:hover .title h2 {
+  color: #ffffff;
+}
+.news-one-page .news-wrap .news-hover-section::before {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+.news-one-page .news-wrap .news-hover-section::after {
+  border-right-color: #ffffff;
+  border-left-color: #ffffff;
+}
+.news-grid figure.effect-sadie:hover h2 {
+  color: #ffffff;
+}
+figure.effect-sadie figcaption::before {
+  background: -webkit-linear-gradient(top, rgba(68, 183, 73, 0) 0%, rgba(68, 183, 73, 0.8) 75%);
+  background: linear-gradient(to bottom, rgba(68, 183, 73, 0) 0%, rgba(68, 183, 73, 0.8) 75%);
+}
+.tweet_time a {
+  color: #44b749;
+}
+.tweet_text a {
+  color: #44b749;
+}
+.blog-carousel .owl-controls .owl-nav div {
+  color: #ffffff;
+}
+.blog-aside-wrap .aside-links a:hover {
+  color: #44b749;
+}
+.footer-section .social-icons ul li a:hover i {
+  color: #000000;
+}
+.contact-button-wrap .contact-button-overlay {
+  background: rgba(255, 255, 255, 0.9);
+}
